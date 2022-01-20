@@ -2,6 +2,13 @@
 
 Download all the Baby Mouse as PNG file using node js.
 
+
+## Installation
+
+Clone the repo to your local machine.
+
+`npm install` or `yarn` or `pnpm install`
+
 - Configure `.env` file, follow the `.env.example`. 
 - Configure `config.js` and place contract abi, contract address.
 
